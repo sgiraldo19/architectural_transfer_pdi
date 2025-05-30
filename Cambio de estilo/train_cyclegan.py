@@ -16,7 +16,7 @@ from tqdm import tqdm
 # -----------------------------
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 IMG_SIZE = 256
-BATCH_SIZE = 4
+BATCH_SIZE = 1 #4 Consumió la una VRAM de 4FB
 EPOCHS = 100
 DATA_DIR = "data"
 SAVE_DIR = "results"
