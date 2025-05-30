@@ -116,7 +116,7 @@ En esta versión se entrenó una GAN por dirección de estilo, y solo se realiz�
 
 # 📜 Créditos
 
-Desarrollado como proyecto final para la asignatura Procesamiento Digital de Imágenes (PDI), Ingeniería Multimedia – Universidad del Valle.
+Desarrollado como proyecto final para la asignatura Procesamiento Digital de Imágenes (PDI), Ingeniería Multimedia – Universidad Autónoma de Occidente.
 
 Por: Sebastián Giraldo García
 2025
